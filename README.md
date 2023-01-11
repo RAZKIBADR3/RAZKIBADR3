@@ -1,10 +1,8 @@
+![web-developer-banner](https://user-images.githubusercontent.com/96654573/211793736-9da401c1-70cf-4ed1-a9cf-4ae2aae5ae10.png)
+
 - 👋 Hi, I’m @RAZKI BADR
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning react & laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me razkibadr3gmail.com
 
-<!---
-RAZKIBADR3/RAZKIBADR3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+contact with me :
