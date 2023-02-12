@@ -4,4 +4,6 @@
 - 👋 Hi, I’m @RAZKI BADR
 - 👀 I’m interested in web developement
 - 🌱 I’m currently using ReactJs,Redux & laravel for projects
-- 📫 How to reach me : 'badr.razki.business@gmail.com' :)
+- 📫 How to reach me :)
+    Email : badr.razki.business@gmail.com
+    LinkedIn : https://www.linkedin.com/in/razki-badr/
