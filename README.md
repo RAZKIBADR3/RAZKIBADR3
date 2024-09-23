@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @RAZKI BADR
 - 👀 I’m interested in web developement
-- 🌱 I’m currently using ReactJs,Redux & symfony for projects
+- 🌱 I’m currently using PHP/Symfony Js/ReactJs for projects
 - 📫 How to reach me :)
     Email : badr.razki.business@gmail.com
-    LinkedIn : https://www.linkedin.com/in/razki-badr/
+    LinkedIn : www.linkedin.com/in/razki-badr/
